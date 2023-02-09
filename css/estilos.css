@@ -1,0 +1,217 @@
+
+.cabecera
+{
+    height: 100px;
+    align-items: center;
+}
+
+a {
+    color: #5A264D;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.logo{
+   max-height: 80px;
+   max-width: 50%;
+}
+
+.fondonav{
+    background: #5A264D;
+    font-size: 20px;
+}
+.btnBuscar{
+    background: #78C807;
+    color: white;
+    font-weight: bold;
+}
+.redes{
+    gap: 10px;
+}
+
+.piedepagina{
+    height: 60px;
+    background: #5A264D;
+    color: white;
+    align-items: center;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.cajaprincipal{
+    padding: 0px;
+}
+.imgprincipal{
+    width: 100%;
+    height: 60vh;
+}
+
+.carouselindex{
+    width: 100%;
+    height: 60vh;
+}
+.titulo{
+    color: #5A264D;
+    text-decoration: underline;
+}
+.subtitulo{
+    color: #5A264D;
+}
+.presentacion{
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 13px;
+}
+
+.imgc2{
+    min-width: 26.1%;
+    max-height: 300px;
+    margin: 20px;
+}
+
+.variedades{
+    text-align: center;
+    margin-left: 2px;
+}
+
+.imgvariedades{
+    width: 60%;
+    height: 350px;
+    margin-bottom: 10px;
+    align-self: center;
+}
+
+.calidad{
+    margin-left: 20px;
+}
+
+.columna{
+    border-right: solid 2px #E1E1E1;
+    text-align: center;
+}
+
+.cajacalidad1{
+    margin-right: 2px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.cajacalidad2{
+    text-align: center;
+    margin-left: 1px;
+    margin-right: 1px;
+    gap: 10px;
+    color: #323233;
+}
+.imgcalidad{
+    height: 190px;
+    width: 180px;
+}
+
+.carouselcarta{
+   width: 560px;
+}
+.cajaprincipal2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.txtCarta{
+    max-width: 560px;
+    text-align: center;
+}
+
+.btnsCarta{
+    text-align: center;
+}
+
+.btnNos{
+    min-width: 100px;
+    max-width: 200px;
+    height: 200px;
+}
+
+.btnNos2{
+    text-align: center;
+}
+.imgNosotros{
+    width: 100%;
+    height: 62.5vh;
+}
+
+.btnNosotros{
+    color: #5A264D;
+    border: unset;
+}
+.btnNosotros:hover{
+    background-color:#5A264D;
+}
+
+.imgReseña{
+    width: 80px;
+    height: 80px;
+}
+
+.imgUbicacion{
+    width: 80%;
+    max-height: 60vh;
+}
+
+.acordHeader{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.divUbicacion{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    align-items: center;
+}
+
+.imgReserva{
+    
+    background-image: url(https://www.abaenglish.com/es/wp-content/uploads/sites/2/2019/07/cajero-de-tienda.jpg);
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    overflow: scroll;
+    height: 75vh;
+}
+
+.divReserva{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.reservar{
+    text-align: center;
+}
+
+.alink{
+    text-decoration: unset;
+    color: white;
+}
+
+.alink:hover{
+    color: white;
+}
+
+.mapa{
+    width: 100%;
+    height: 450px;
+    border:0;
+}
+
+.artNosotros{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
